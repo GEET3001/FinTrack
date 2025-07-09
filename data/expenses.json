@@ -1,0 +1,20 @@
+[
+    {
+        "username": "Geet",
+        "category": "Food",
+        "amount": 0.05,
+        "date": "2025-07-07"
+    },
+    {
+        "username": "Geet",
+        "category": "Entertainment",
+        "amount": 3000.0,
+        "date": "2025-07-08"
+    },
+    {
+        "username": "Geet",
+        "category": "Health",
+        "amount": 4000.0,
+        "date": "2025-07-08"
+    }
+]
